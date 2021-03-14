@@ -1,8 +1,7 @@
 # daily_expense_tracker
 
 This is a flutter project with track expenses of last 7 days.
-![Expenses-Tracker](https://user-images.githubusercontent.com/67136222/111064128-5ba0cf80-84d8-11eb-8a49-a04101d90f42.gif)
-
+<br><img src="https://user-images.githubusercontent.com/67136222/111064128-5ba0cf80-84d8-11eb-8a49-a04101d90f42.gif"  height="300"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.

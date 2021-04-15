@@ -55,7 +55,11 @@ class _NewTransactionState extends State<NewTransaction> {
       child: SingleChildScrollView(
         child: Container(
           height: 420,
-          margin: EdgeInsets.all(10),
+          margin: EdgeInsets.only(
+              top: 10,
+              left: 10,
+              right: 10,
+              bottom: MediaQuery.of(context).viewInsets.bottom + 10),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.end,
             children: [
